@@ -1,2 +1,2 @@
 # Dinder
-Tinder fir Dogs
+Tinder for Dogs
